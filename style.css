@@ -1,0 +1,12 @@
+h1 {
+  color:blue;
+  background-color:lightgrey;
+  border: solid black 1px;
+}
+
+p {
+  color:red;
+  background-color:pink;
+  border: solid brown 1px;
+
+}
